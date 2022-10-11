@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Carl
 - 👀 I’m interested in learning more about technology from a development and QA perspective
-- 🌱 I’m currently learning about DevOps and Software Engineering while taking courses offered by IBM through Coursera
+- 🌱 I’m currently learning about Automation Testing
 - 💞️ I’m looking to collaborate on team and knowledge building
 - 📫 How to reach me: manofstone@me.com
 
